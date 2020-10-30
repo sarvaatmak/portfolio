@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sarvatmak Galande portfolio</title>
+    <link>https://sarvaatmak.github.io/portfolio/</link>
+    <description>Recent content on Sarvatmak Galande portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Sep 2020 19:41:01 +0530</lastBuildDate><atom:link href="https://sarvaatmak.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>House Prices Advanced Regression Techniques</title>
+      <link>https://sarvaatmak.github.io/portfolio/portfolio/project2/</link>
+      <pubDate>Mon, 28 Sep 2020 19:41:01 +0530</pubDate>
+      
+      <guid>https://sarvaatmak.github.io/portfolio/portfolio/project2/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Ever wonder how houses are priced? Market forces work to reduce divergences between housing prices. However, sometimes, the process gets inefficient due to lack of speed in information circulation and inaccuracies in estimations. Using regression techniques to price the houses aim to address this issue. In this notebook, I aim to provide an example of how we can apply regression techniques to such a problem, end-to-end, Using EDA and feature engineering for building our model.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Classifiers Model Selection Iris</title>
+      <link>https://sarvaatmak.github.io/portfolio/portfolio/project1/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://sarvaatmak.github.io/portfolio/portfolio/project1/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Here I use number of models on iris dataset to check the accuracy and cross validation scores, then accordingly I compare them which in terms helps in selecting the best classifier for our iris dataset.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
